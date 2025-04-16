@@ -1,7 +1,3 @@
-
-
-main.py
-
 # main.py
 
 from pet import Pet, Dog, Cat
