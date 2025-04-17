@@ -38,4 +38,3 @@ class Pet:
 
     def show_tricks(self):
         print(f"{self.name} knows the following tricks: {', '.join(self.tricks)}")
-
